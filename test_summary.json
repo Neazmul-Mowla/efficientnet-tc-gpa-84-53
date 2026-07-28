@@ -1,0 +1,7 @@
+{
+  "best_validation_epoch": 10,
+  "best_validation_loss": 0.3128533390045166,
+  "test_loss": 0.3092138878186544,
+  "test_accuracy": 0.8453333333333334,
+  "test_macro_roc_auc_ovr": 0.9889241361667245
+}

@@ -1,0 +1,10 @@
+,Predicted_ADI,Predicted_BACK,Predicted_DEB,Predicted_LYM,Predicted_MUC,Predicted_MUS,Predicted_NORM,Predicted_STR,Predicted_TUM
+True_ADI,1551,2,0,0,2,3,0,3,0
+True_BACK,1,1583,0,0,1,0,0,0,0
+True_DEB,0,7,1666,12,0,4,0,26,11
+True_LYM,0,0,9,1711,0,0,1,7,6
+True_MUC,4,1,15,1,1272,16,1,22,3
+True_MUS,18,1,15,1,2,873,0,1119,1
+True_NORM,0,1,4,78,280,3,774,14,161
+True_STR,1,0,22,2,13,281,1,1244,3
+True_TUM,2,0,26,9,13,10,10,71,2006
